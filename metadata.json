@@ -1,0 +1,6 @@
+{
+  "name": "Brick Tank 1990 — Máy Điện Tử Cầm Tay Cổ Điển",
+  "description": "Trò chơi bắn xe tăng cổ điển trên màn hình tinh thể lỏng LCD ma trận điểm kiểu máy điện tử cầm tay Brick Game 9999-in-1 thập niên 90.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
